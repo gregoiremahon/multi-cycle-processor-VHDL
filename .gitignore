@@ -1,0 +1,8 @@
+*.vhd.bak
+*.bak
+*.qpg
+*.qtl
+*_info
+*.qdb
+*_vmake
+*.vstf
