@@ -6,3 +6,4 @@
 *.qdb
 *_vmake
 *.vstf
+*.flock
