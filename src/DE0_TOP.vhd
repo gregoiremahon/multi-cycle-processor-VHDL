@@ -14,9 +14,9 @@ PORT (
 	KEY	: IN 	std_logic_vector(3 DOWNTO 0);  	-- Boutons Poussoir[3:0]
 	SW		: IN 	std_logic_vector(17 DOWNTO 0);	-- Interrupteurs[17:0]
 	HEX0	: OUT 	std_logic_vector(6 DOWNTO 0);   -- Afficheur 7 Segment 0
-   HEX1	: OUT 	std_logic_vector(6 DOWNTO 0);   -- Afficheur 7 Segment 1
-   HEX2	: OUT 	std_logic_vector(6 DOWNTO 0);   -- Afficheur 7 Segment 2
-   HEX3	: OUT 	std_logic_vector(6 DOWNTO 0);   -- Afficheur 7 Segment 3
+   	HEX1	: OUT 	std_logic_vector(6 DOWNTO 0);   -- Afficheur 7 Segment 1
+   	HEX2	: OUT 	std_logic_vector(6 DOWNTO 0);   -- Afficheur 7 Segment 2
+   	HEX3	: OUT 	std_logic_vector(6 DOWNTO 0);   -- Afficheur 7 Segment 3
    
 	LEDG	: OUT 	std_logic_vector(8 DOWNTO 0)   -- LEDs Verte[8:0]
 );
