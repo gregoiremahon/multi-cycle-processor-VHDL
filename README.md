@@ -1,6 +1,7 @@
 # multi-cycle-processor-VHDL
 
 This repository contains the VHDL code for a multi-cycle processor. The project is not fully completed due to time constraints and focus on the **[mono-cycle-processor](https://github.com/gregoiremahon/mono-cycle-processor-VHDL/tree/main)** . However, it provides a good starting point for understanding the design and operation of a multi-cycle processor.
+This project was created as part of the Polytech Sorbonne EI2I-3 project by Grégoire Mahon and Armand Lelong.
 
 ## Components
 
@@ -32,4 +33,4 @@ coming soon...
 
 ## Contributing
 
-coming soon...
+This project was created by Grégoire Mahon and Armand Lelong [@armagrad]. Please feel free to contribute to the project by creating pull requests or reporting issues.
