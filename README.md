@@ -1,6 +1,6 @@
 # multi-cycle-processor-VHDL
 
-This repository contains the VHDL code for a multi-cycle processor. The project is not fully completed due to time constraints and focus on the mono-cycle-processor. However, it provides a good starting point for understanding the design and operation of a multi-cycle processor.
+This repository contains the VHDL code for a multi-cycle processor. The project is not fully completed due to time constraints and focus on the **[mono-cycle-processor](https://github.com/gregoiremahon/mono-cycle-processor-VHDL/tree/main)** . However, it provides a good starting point for understanding the design and operation of a multi-cycle processor.
 
 ## Components
 
